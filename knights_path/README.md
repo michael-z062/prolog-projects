@@ -2,7 +2,8 @@
 ## Knight's Path
 
 Knight's Path objective is to find a path of the knight on the chess board, from point `A` to point `B`, of the specified length `L`.
-Points `A` and `B` are represented with coordinates of the square `X/Y`.
+Points `A` and `B` are represented with the coordinates of the square `X/Y`.
+
 
 ## Implementation Description
 
